@@ -8,4 +8,4 @@ sxt151030
 
 sxt151030@utdallas.edu
 
-https://github.com/shurongtian/Program6ShurongTian.git
+https://github.com/shurongtian/Program6-ShurongTian.git
